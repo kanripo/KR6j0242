@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:38.143708
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:39
 #+TITLE: 佛說六字呪王經
 #+PROPERTY: CBETA_ID T20n1044
 #+PROPERTY: ID KR6j0242
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1044
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0242_T_000-0038a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0242_T_001-0038a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1044[No.1045,cf.No.1043]¶
-
- 佛說六字呪王經¶
+No. 1044 [No. 1045, cf. No. 1043]¶
+佛說六字呪王經¶
 ¶
 失譯人名今附東晉錄¶
 
@@ -36,8 +35,7 @@ No.1044[No.1045,cf.No.1043]¶
 若龍。若夜叉若羅剎。若餓鬼若鳩槃荼。若富¶
 多那若毘舍闍。若阿婆摩羅若吉遮。若佉歐¶
 陀若毘陀羅。若半毘陀羅若半毘陀羅女。若¶
-沙門若婆羅門。若剎利。若毘舍若首陀。若¶
-摩登伽若摩登伽女。若栴陀羅若栴陀羅女。¶
+沙門若婆羅門。若剎利。若毘舍若首陀。若摩登伽若摩登伽女。若栴陀羅若栴陀羅女。¶
 若奴若婢。若男若女。若外道出家男女。如是¶
 等種種悉能呪詛厭蠱。我今以此六字呪王¶
 經。若上向作上向滅之。若下向作下向滅之。¶
